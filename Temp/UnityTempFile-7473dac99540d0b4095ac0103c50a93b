@@ -1,0 +1,144 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-firstpass.dll
+-r:D:/project/unity/Editor/Data/Managed/UnityEngine.dll
+-r:D:/project/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+-r:D:/project/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+-r:D:/project/unity/Editor/Data/Managed/UnityEditor.dll
+-r:D:/project/unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+-r:D:/project/unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_3_4
+-define:UNITY_5_3
+-define:UNITY_5
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_LOG_MIXED_STACKTRACE
+-define:ENABLE_UNITYWEBREQUEST
+-define:PLATFORM_SUPPORTS_ADS_ID
+-define:ENABLE_UNITYADS_RUNTIME
+-define:UNITY_UNITYADS_API
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:CROSS_PLATFORM_INPUT
+-define:MOBILE_INPUT
+"Assets/Standard Assets/framework/log/log.cs"
+"Assets/Standard Assets/framework/net/client.cs"
+"Assets/Standard Assets/framework/net/heart_beat.cs"
+"Assets/Standard Assets/framework/net/message_handler.cs"
+"Assets/Standard Assets/framework/utils/buffer.cs"
+"Assets/Standard Assets/framework/utils/message.cs"
+"Assets/Standard Assets/framework/utils/stream.cs"
+"Assets/Standard Assets/framework/utils/utils.cs"
+"Assets/Standard Assets/game_data.cs"
+"Assets/Standard Assets/message_cb.cs"
+"Assets/Standard Assets/proto/BTL_ACK_CLIENT_RANK.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_BTL_START.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_DAMAGE.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_ENTER_BTL.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_ENTER_SIGHT.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_LEAVE_BTL.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_LEAVE_SIGHT.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_PAUSE.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_RANK_CHANGED.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_RESUME.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_RESUME_COMPLETE.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_REVIVE.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_REVIVE_COORD.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_ROLE_DIR.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_ROLE_POS.cs"
+"Assets/Standard Assets/proto/BTL_NTF_CLIENT_SHOT.cs"
+"Assets/Standard Assets/proto/CLIENT_NTF_BTL_PAUSE.cs"
+"Assets/Standard Assets/proto/CLIENT_NTF_BTL_RESUME.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_BTL_RANK.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_GATEWAY_CREATE_ACCOUNT.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_GATEWAY_CREATE_ROLE.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_GATEWAY_ENTRY_GATEWAY_ADDRESS.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_GATEWAY_LOGIN.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_GATEWAY_ONLINE.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_GATEWAY_QUERY_ROLE_INFO.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_GATEWAY_VERIFY.cs"
+"Assets/Standard Assets/proto/CLIENT_REQ_OBJECT_MATCH.cs"
+"Assets/Standard Assets/proto/GATEWAY_ACK_CLIENT_CREATE_ACCOUNT.cs"
+"Assets/Standard Assets/proto/GATEWAY_ACK_CLIENT_CREATE_ROLE.cs"
+"Assets/Standard Assets/proto/GATEWAY_ACK_CLIENT_LOGIN.cs"
+"Assets/Standard Assets/proto/GATEWAY_ACK_CLIENT_ONLINE.cs"
+"Assets/Standard Assets/proto/GATEWAY_ACK_CLIENT_QUERY_ROLE_INFO.cs"
+"Assets/Standard Assets/proto/GATEWAY_ACK_CLIENT_VERIFY.cs"
+"Assets/Standard Assets/proto/GATEWAY_ENTRY_ACK_CLIENT_GATEWAY_ADDRESS.cs"
+"Assets/Standard Assets/proto/OBJECT_ACK_CLIENT_MATCH.cs"
+"Assets/Standard Assets/proto/OBJECT_NTF_CLIENT_BTL_OVER.cs"
+"Assets/Standard Assets/proto/OBJECT_NTF_CLIENT_ENTER_BATTLEFIELD.cs"
+"Assets/Standard Assets/proto/errno.cs"
+"Assets/Standard Assets/proto/type/grole_info.cs"
+"Assets/Standard Assets/proto/type/rank_changed_info.cs"
+"Assets/Standard Assets/proto/type/rank_role_data.cs"
+"Assets/Standard Assets/proto/type/role_data.cs"
+"Assets/Standard Assets/proto/type/role_dir.cs"
+"Assets/Standard Assets/proto/type/role_pos.cs"
+"Assets/Standard Assets/proto/type/socket_addr.cs"
+"Assets/Standard Assets/proto/type/vector2.cs"
+"Assets/Standard Assets/proto_handler/proto_handler.cs"
+"Assets/Standard Assets/role.cs"
+"Assets/Standard Assets/sys.cs"
+"Assets/Standard Assets/temp.cs"
+"Assets/Standard Assets/user_data.cs"
+-r:D:\project\unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll
+-r:D:\project\unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll

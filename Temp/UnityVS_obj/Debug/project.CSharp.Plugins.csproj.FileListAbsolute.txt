@@ -1,0 +1,17 @@
+D:\project\project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\project\project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\project\project\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+D:\project\project\Temp\UnityVS_obj\Debug\project.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\project\project\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.dll
+D:\project\project\Temp\UnityVS_obj\Debug\Assembly-CSharp-firstpass.pdb
